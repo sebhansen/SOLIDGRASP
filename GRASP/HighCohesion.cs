@@ -1,8 +1,8 @@
 ﻿using System;
 
-public class Class1
+public class HighCohesion
 {
-	public Class1()
-	{
-	}
+    public HighCohesion()
+    {
+    }
 }
